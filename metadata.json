@@ -1,0 +1,6 @@
+{
+  "name": "Finanzas Pro",
+  "description": "Aplicación inteligente de administración de finanzas personales, gestión de transacciones, cálculo de impuestos, amortización de deudas, metas de ahorro y crédito hipotecario de manera interactiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
